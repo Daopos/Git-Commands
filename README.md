@@ -2,6 +2,9 @@
 
 A quick reference for common Git commands used in personal and collaborative projects.
 
+# Git Common Commands
+![](git.gif)
+
 ---
 
 ## 🧱 Initialize a Repository
